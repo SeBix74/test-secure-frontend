@@ -1,7 +1,6 @@
 name: from scratch CI
 
-on:
-  push:
+on: push
 
 jobs:
   install:
